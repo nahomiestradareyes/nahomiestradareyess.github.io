@@ -1,9 +1,9 @@
 # main text of home
-name: Jane Doe
-bio: A Girl who travels the world eating noodles
+name: Nahomi Estrada
+bio: 
 
 # twitter summary info
-description: A blog about technology and stuff related
+description: Blog personal
 
 picture: assets/images/picture.jpg
 
@@ -14,7 +14,7 @@ url: http://koppl.in/violet
 facebook: myfacebook
 twitter: mytwitter
 github: mygithub
-email: me@jane.doe
+
 
 gems:
   - jekyll-seo-tag
